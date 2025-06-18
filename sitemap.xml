@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://docs.haops.dev/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.haops.dev/Bare-Metal/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.haops.dev/CONTRIBUTING/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.haops.dev/Configuration/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.haops.dev/Integrated-Mode/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.haops.dev/Nix/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.haops.dev/SECURITY/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.haops.dev/Simple-Mode/</loc>
+         <lastmod>2025-06-18</lastmod>
+    </url>
+</urlset>
